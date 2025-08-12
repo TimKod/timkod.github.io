@@ -27,7 +27,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Space Physicist | Data Assimilation | Open Science Advocate"
   # location         : "Down to Earth"
-  employer         : ""
+  employer         : # ""
   uri              : # URL
   email            : "Timothy(encriptDot);.Kodikara@gmail(encriptDot);.com" 
 

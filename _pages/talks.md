@@ -3,9 +3,6 @@ layout: archive
 title: "Talks and Presentations"
 permalink: /talks/
 author_profile: true
-redirect_from: 
-  - /talks/
-  - /talks.html
 ---
 
 Invited Talks

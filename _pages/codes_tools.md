@@ -3,9 +3,6 @@ layout: archive
 title: "Codes and Tools"
 permalink: /codes_tools/
 author_profile: true
-redirect_from: 
-  - /codes_tools/
-  - /codes_tools.html
 ---
 
 Here, I would like to showcase a selection of data science tools, repositories and other useful resources, including my own. I am interested in collaborating on connecting science questions, so please feel free to get in touch.
