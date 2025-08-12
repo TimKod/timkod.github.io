@@ -8,7 +8,8 @@ author_profile: true
 Here, I would like to showcase a selection of data science tools, repositories and other useful resources, including my own. I am interested in collaborating on connecting science questions, so please feel free to get in touch.
 
 ## TIE-GCM orbit interpolator
-[[DOI:](https://zenodo.org/badge/619801858.svg)](https://zenodo.org/badge/latestdoi/619801858)
+[![DOI](https://zenodo.org/badge/619801858.svg)](https://zenodo.org/badge/latestdoi/619801858)
+
 The [tiegcm_orbit_interpolator](https://github.com/TimKod/tiegcm_orbit_interpolator) is a simple Python code that can interpolate [TIE-GCM](https://www.hao.ucar.edu/modeling/tgcm/tie.php) NetCDF model outputs to a given time, latitude, longitude and altitude.
 
 ## TIE-GCM v3.0
