@@ -7,6 +7,7 @@ author_profile: true
 
 For the full list, please see [Google Scholar](https://scholar.google.com/citations?user=dOasZEUAAAAJ&hl=en).
 
+1. Yuan, L., Jakowski, N., **Kodikara, T.**, Hoque, M., Li, L., & Jin, S. (2026). Simultaneous observations of topside mid-latitude plasma troughs and subauroral red arcs: The role of electron heat conduction. Journal of Geophysical Research: Space Physics, 131, e2025JA034758. [https://doi.org/10.1029/2025JA034758](https://doi.org/10.1029/2025JA034758)
 1. Sato, H. , Nykiel, G., Günzkofer, F., **Kodikara, T.**, Cahuasquí, J. A., & Hoque, M. (2025). Altitude variations in ionospheric responses and prolonged TEC recovery during the high latitude solar eclipse of 10 June 2021. Journal of Geophysical Research: Space Physics, 130, e2025JA034001. [https://doi.org/10.1029/2025JA034001](https://doi.org/10.1029/2025JA034001)
 1. Hładczuk, N. A., van den IJssel, J., **Kodikara, T.**, Siemes, C., & Visser, P. (2024). GRACE-FO radiation pressure modelling for accurate density and crosswind retrieval. Advances in Space Research, 73(5), 2355–2373. [https://doi.org/10.1016/j.asr.2023.12.059](https://doi.org/10.1016/j.asr.2023.12.059)
 1. Yuan, L., **Kodikara, T.**, & Hoque, M. M. (2024). Characterization of the ionospheric vertical error correlation lengths based on global ionosonde observations. Space Weather, 22, e2023SW003743. [https://doi.org/10.1029/2023SW003743](https://doi.org/10.1029/2023SW003743)
