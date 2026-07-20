@@ -7,6 +7,7 @@ author_profile: true
 
 For the full list, please see [Google Scholar](https://scholar.google.com/citations?user=dOasZEUAAAAJ&hl=en).
 
+1. Nwankwo, V. U. J., Berdermann, J., **Kodikara, T.**, et al. (2026). Estimation and Prediction of Long-duration Aerodynamic Drag Effect on Floating LEO Debris using the EDAC-adapted Model. Materials Research Proceedings, Vol. 69, pp 1131--1139. [https://doi.org/10.21741/9781644904251-195](https://doi.org/10.21741/9781644904251-195)
 1. Reiss, M. A., Kuznetsova, M. M., ..., **Kodikara, T.**, et al. (2026). Recommendations for Advancing Heliophysics and Space Weather Modeling through Open Science. Space Weather. 24, e2026SW005194. [https://doi.org/10.1029/2026SW005194](https://doi.org/10.1029/2026SW005194)
 1. Nwankwo, V. U. J., Berdermann, J., ..., **Kodikara, T.**, et al. (2026). A new approach to modelling space weather impact on the aerodynamic drag of LEO objects. Journal of Space Weather and Space Climate. [https://doi.org/10.1051/swsc/2026006](https://doi.org/10.1051/swsc/2026006)
 1. Corti, C., Kuznetsova, M. M., ..., **Kodikara, T.**, et al. (2026). Advancing Heliophysics and Space Weather Modeling through Open Science. Space Weather. 24, e2025SW004922. [https://doi.org/10.1029/2025SW004922](https://doi.org/10.1029/2025SW004922)
